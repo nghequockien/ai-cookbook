@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O83x__PdH8VKjKitLUFW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;spacingBottom=-20;fillColor=#F2F2F2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Comic Sans MS;dashed=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OCR Processing&lt;/span&gt;" vertex="1">
+        <mxCell id="O83x__PdH8VKjKitLUFW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;spacingBottom=-22;fillColor=#F2F2F2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Comic Sans MS;dashed=1;strokeColor=#FF3399;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OCR Processing&lt;/span&gt;" vertex="1">
           <mxGeometry height="380" width="270" x="480" y="240" as="geometry" />
         </mxCell>
         <mxCell id="oH4BKI0mOx1lVHyLfdUS-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Office_Icons-2682/ilustracoes_04-14-1278.svg;fontFamily=Comic Sans MS;" value="Invoices,&amp;nbsp;&lt;div&gt;Medical Statements&lt;/div&gt;" vertex="1">
@@ -23,7 +23,7 @@
           <mxGeometry height="154" width="260" x="485" y="444" as="geometry" />
         </mxCell>
         <mxCell id="O83x__PdH8VKjKitLUFW-2" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://contentunderstanding.ai.azure.com/documentintelligence/images/home/home-classification-card.svg;fontFamily=Comic Sans MS;fontStyle=0;spacingTop=-10;" value="Document Classification" vertex="1">
-          <mxGeometry height="154" width="260" x="485" y="256" as="geometry" />
+          <mxGeometry height="154" width="260" x="485" y="261" as="geometry" />
         </mxCell>
         <mxCell id="O83x__PdH8VKjKitLUFW-11" edge="1" parent="1" source="oH4BKI0mOx1lVHyLfdUS-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Comic Sans MS;" target="oH4BKI0mOx1lVHyLfdUS-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
