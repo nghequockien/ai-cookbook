@@ -258,7 +258,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZIRTHZUCgXL6WFmY8xef" name="Level-1 OCR Processing ">
-    <mxGraphModel dx="1244" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="PAT8iGl0cGLbSETXgE7T-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" value="7" vertex="1">
           <mxGeometry height="20" width="20" x="850" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PAT8iGl0cGLbSETXgE7T-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Comic Sans MS;fontSize=11;" value="Processing Flow:&lt;div&gt;&lt;br&gt;&lt;div&gt;1.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The OCR service reads and extracts the text, table, form, boundry, layout, ... from the documents&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. Document Metadata and All Text will be saved into database as JSON object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Classification input document to identify Document Type&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. Calling Form Extraction Service with Document Type ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. Query Defined Prompt Template &amp;amp; Document Schema&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;6. Query OCR JSON Data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;7. Post-Data verification powered-by LLM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;8. Saving Processed Form Data to Database&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="146" width="703" x="18" y="574" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
